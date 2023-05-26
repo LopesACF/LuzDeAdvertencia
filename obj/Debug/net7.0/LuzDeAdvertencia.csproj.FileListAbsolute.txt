@@ -1,0 +1,15 @@
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\bin\Debug\net7.0\LuzDeAdvertencia.exe
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\bin\Debug\net7.0\LuzDeAdvertencia.deps.json
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\bin\Debug\net7.0\LuzDeAdvertencia.runtimeconfig.json
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\bin\Debug\net7.0\LuzDeAdvertencia.dll
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\bin\Debug\net7.0\LuzDeAdvertencia.pdb
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.csproj.AssemblyReference.cache
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.AssemblyInfoInputs.cache
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.AssemblyInfo.cs
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.dll
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\refint\LuzDeAdvertencia.dll
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.pdb
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\LuzDeAdvertencia.genruntimeconfig.cache
+C:\Users\user\Documents\LuzDeAdvertencia\LuzDeAdvertencia\obj\Debug\net7.0\ref\LuzDeAdvertencia.dll
